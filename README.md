@@ -1,7 +1,7 @@
 #Mona's Escape
 ## GitHub Game Off 2016
 
-![GitHub Game Off 2016 Theme is Hacking, Modding, or Augmenting](https://github.com/joshuashoemaker/game-off-2016/blob/master/assets/sprites/world/levelrender2.png)
+![GitHub Game Off 2016 Theme is Hacking, Modding, or Augmenting](https://github.com/joshuashoemaker/game-off-2016/blob/master/GameCapture.jpg)
 
 This is our first year participating in Github's Game Off. Typically we would have developed in Unity using C# but we decided to create
 somehting will no tools and with javascript instead. It was quite a learning experience, both fun and frustrating.
