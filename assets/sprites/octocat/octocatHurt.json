@@ -1,0 +1,189 @@
+{"frames": {
+
+"catHurt_1":
+{
+	"frame": {"x":1,"y":1,"w":188,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":9,"w":188,"h":235},
+	"sourceSize": {"w":256,"h":235}
+},
+"catHurt_2":
+{
+	"frame": {"x":191,"y":1,"w":187,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":187,"h":234},
+	"sourceSize": {"w":256,"h":234}
+},
+"catHurt_3":
+{
+	"frame": {"x":344,"y":237,"w":185,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":185,"h":231},
+	"sourceSize": {"w":256,"h":231}
+},
+"catHurt_4":
+{
+	"frame": {"x":1,"y":238,"w":182,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":9,"w":182,"h":227},
+	"sourceSize": {"w":256,"h":227}
+},
+"catHurt_5":
+{
+	"frame": {"x":698,"y":1,"w":176,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":9,"w":176,"h":220},
+	"sourceSize": {"w":256,"h":220}
+},
+"catHurt_6":
+{
+	"frame": {"x":856,"y":223,"w":172,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":9,"w":172,"h":218},
+	"sourceSize": {"w":256,"h":218}
+},
+"catHurt_7":
+{
+	"frame": {"x":876,"y":1,"w":166,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":9,"w":166,"h":219},
+	"sourceSize": {"w":256,"h":219}
+},
+"catHurt_8":
+{
+	"frame": {"x":692,"y":225,"w":162,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":9,"w":162,"h":221},
+	"sourceSize": {"w":256,"h":221}
+},
+"catHurt_9":
+{
+	"frame": {"x":531,"y":226,"w":159,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":9,"w":159,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+"catHurt_10":
+{
+	"frame": {"x":538,"y":1,"w":158,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":9,"w":158,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+"catHurt_11":
+{
+	"frame": {"x":185,"y":238,"w":157,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":9,"w":157,"h":223},
+	"sourceSize": {"w":256,"h":223}
+},
+"catHurt_12":
+{
+	"frame": {"x":380,"y":1,"w":156,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":9,"w":156,"h":223},
+	"sourceSize": {"w":256,"h":223}
+},
+"catHurt_13":
+{
+	"frame": {"x":185,"y":238,"w":157,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":9,"w":157,"h":223},
+	"sourceSize": {"w":256,"h":223}
+},
+"catHurt_14":
+{
+	"frame": {"x":538,"y":1,"w":158,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":9,"w":158,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+"catHurt_15":
+{
+	"frame": {"x":531,"y":226,"w":159,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":9,"w":159,"h":222},
+	"sourceSize": {"w":256,"h":222}
+},
+"catHurt_16":
+{
+	"frame": {"x":692,"y":225,"w":162,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":9,"w":162,"h":221},
+	"sourceSize": {"w":256,"h":221}
+},
+"catHurt_17":
+{
+	"frame": {"x":876,"y":1,"w":166,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":9,"w":166,"h":219},
+	"sourceSize": {"w":256,"h":219}
+},
+"catHurt_18":
+{
+	"frame": {"x":856,"y":223,"w":172,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":9,"w":172,"h":218},
+	"sourceSize": {"w":256,"h":218}
+},
+"catHurt_19":
+{
+	"frame": {"x":698,"y":1,"w":176,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":9,"w":176,"h":220},
+	"sourceSize": {"w":256,"h":220}
+},
+"catHurt_20":
+{
+	"frame": {"x":1,"y":238,"w":182,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":9,"w":182,"h":227},
+	"sourceSize": {"w":256,"h":227}
+},
+"catHurt_21":
+{
+	"frame": {"x":344,"y":237,"w":185,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":185,"h":231},
+	"sourceSize": {"w":256,"h":231}
+},
+"catHurt_22":
+{
+	"frame": {"x":191,"y":1,"w":187,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":187,"h":234},
+	"sourceSize": {"w":256,"h":234}
+}
+},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "octocatHurt.png",
+	"format": "RGBA8888",
+	"size": {"w":1043,"h":469},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:893519d6945761a46f81aff5dc0c0a8a:22f95b069f2bd94d20e9b53b8a2ba7e7:86bb9f4432cfdaf0546a0513b5be7b12$"
+}
+}

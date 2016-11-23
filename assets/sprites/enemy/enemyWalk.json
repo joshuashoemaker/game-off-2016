@@ -1,0 +1,180 @@
+{"frames": {
+
+"enemyWalk1":
+{
+	"frame": {"x":211,"y":1,"w":210,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":210,"h":245},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk2":
+{
+	"frame": {"x":1,"y":1,"w":208,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":1,"w":208,"h":248},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk3":
+{
+	"frame": {"x":1,"y":500,"w":200,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":200,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk4":
+{
+	"frame": {"x":203,"y":500,"w":185,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":2,"w":185,"h":254},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk5":
+{
+	"frame": {"x":595,"y":1,"w":161,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":2,"w":161,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk6":
+{
+	"frame": {"x":440,"y":751,"w":130,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":2,"w":130,"h":254},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk7":
+{
+	"frame": {"x":572,"y":750,"w":112,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":2,"w":112,"h":254},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk8":
+{
+	"frame": {"x":686,"y":747,"w":120,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":2,"w":120,"h":254},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk9":
+{
+	"frame": {"x":808,"y":499,"w":129,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":1,"w":129,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk10":
+{
+	"frame": {"x":415,"y":256,"w":143,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":1,"w":143,"h":243},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk11":
+{
+	"frame": {"x":560,"y":256,"w":145,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":145,"h":240},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk12":
+{
+	"frame": {"x":707,"y":256,"w":143,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":1,"w":143,"h":241},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk13":
+{
+	"frame": {"x":646,"y":499,"w":137,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":1,"w":137,"h":246},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk14":
+{
+	"frame": {"x":310,"y":756,"w":128,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":2,"w":128,"h":251},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk15":
+{
+	"frame": {"x":808,"y":754,"w":123,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":3,"w":123,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk16":
+{
+	"frame": {"x":531,"y":501,"w":113,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":3,"w":113,"h":247},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk17":
+{
+	"frame": {"x":192,"y":756,"w":116,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":3,"w":116,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk18":
+{
+	"frame": {"x":758,"y":1,"w":144,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":3,"w":144,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk19":
+{
+	"frame": {"x":423,"y":1,"w":170,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":3,"w":170,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk20":
+{
+	"frame": {"x":1,"y":755,"w":189,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":189,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyWalk21":
+{
+	"frame": {"x":1,"y":251,"w":208,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":1,"w":208,"h":247},
+	"sourceSize": {"w":256,"h":256}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemyWalk.png",
+	"format": "RGBA8888",
+	"size": {"w":938,"h":1009},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d6dbec045e4e8cf9f67aace0f0c8f5f6:d7a07d5be50bebb168dcc66d1de3cf76:8e93c5ffd3586901d996af9a8f40df2c$"
+}
+}

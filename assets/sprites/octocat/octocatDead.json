@@ -1,0 +1,20 @@
+{"frames": {
+
+"catDead_1":
+{
+	"frame": {"x":1,"y":1,"w":252,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":252,"h":142},
+	"sourceSize": {"w":252,"h":200}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "octocatDead.png",
+	"format": "RGBA8888",
+	"size": {"w":254,"h":144},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3c11ea87d6f92afe13c6cb6f692baab3:28ca204c96d92a0566fd32c34adf87e8:a616eb0f393fdae8818d669397924b96$"
+}
+}

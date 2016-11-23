@@ -1,0 +1,141 @@
+{"frames": {
+
+"enemyIdle1":
+{
+	"frame": {"x":1,"y":511,"w":114,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":6,"w":114,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle2":
+{
+	"frame": {"x":1,"y":511,"w":114,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":6,"w":114,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle3":
+{
+	"frame": {"x":117,"y":511,"w":114,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":6,"w":114,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle4":
+{
+	"frame": {"x":235,"y":510,"w":114,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":5,"w":114,"h":251},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle5":
+{
+	"frame": {"x":235,"y":257,"w":115,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":5,"w":115,"h":251},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle6":
+{
+	"frame": {"x":1,"y":257,"w":115,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":4,"w":115,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle7":
+{
+	"frame": {"x":118,"y":257,"w":115,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":4,"w":115,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle8":
+{
+	"frame": {"x":352,"y":1,"w":115,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":3,"w":115,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle9":
+{
+	"frame": {"x":352,"y":256,"w":115,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":3,"w":115,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle10":
+{
+	"frame": {"x":352,"y":1,"w":115,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":3,"w":115,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle11":
+{
+	"frame": {"x":118,"y":257,"w":115,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":4,"w":115,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle12":
+{
+	"frame": {"x":1,"y":257,"w":115,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":4,"w":115,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle13":
+{
+	"frame": {"x":235,"y":257,"w":115,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":5,"w":115,"h":251},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle14":
+{
+	"frame": {"x":235,"y":510,"w":114,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":5,"w":114,"h":251},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle15":
+{
+	"frame": {"x":117,"y":511,"w":114,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":6,"w":114,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"enemyIdle16":
+{
+	"frame": {"x":1,"y":511,"w":114,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":6,"w":114,"h":250},
+	"sourceSize": {"w":256,"h":256}
+}
+},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemyIdle.png",
+	"format": "RGBA8888",
+	"size": {"w":468,"h":762},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:335568688bbd6970f6ba4abb20ce32b6:298a7ec356bbfd49ba85db2d7aadff9b:5d6ccf37bedd7d9a3952749ad2d58f2d$"
+}
+}
