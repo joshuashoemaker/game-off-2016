@@ -17,11 +17,11 @@ function gameLoop() {
 
 function play() {
   if(terminalsHacked === 4){
-    window.location="https://github.com/joshuashoemaker/game-off-2016/gameover.html"
+    window.location="https://joshuashoemaker.github.io/game-off-2016/gameover.html"
   }
   if(!player.alive()){
     setTimeout(function(){
-      window.location="https://github.com/joshuashoemaker/game-off-2016/gameover.html"
+    window.location="https://joshuashoemaker.github.io/game-off-2016/gameover.html"
     }, 1500)
   }
 }
