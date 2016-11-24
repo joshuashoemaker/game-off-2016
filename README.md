@@ -18,3 +18,6 @@ https://joshuashoemaker.github.io/game-off-2016
 ###To Play
 Either clone the reposotory and host on a simple HTTP server or go to this address: https://joshuashoemaker.github.io/game-off-2016
 You may experience less bugs if you play on your own server.
+
+###Controls
+Left/Right to move. Up to accent air vents. Space to Jump. CTRL to Hack.
