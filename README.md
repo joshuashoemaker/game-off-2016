@@ -11,7 +11,6 @@ needs to hack the terminals to find a way out. Also watch out for the guards. Yo
 are not very equipped for combat.
 
 Please enjoy, and sorry for any bugs, we only had a few hours to throw this together.
-  Primary Bug: The sound files can not be reached from HTTP request. No idea why since they do when gosting on a local server.
 
 https://joshuashoemaker.github.io/game-off-2016
 
