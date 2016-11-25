@@ -1,5 +1,5 @@
 var jumpsfx = new Howl({
-      src: ['assets/sfx/Jump.wav']
+      src: ['assets/sfx/jump.wav']
 });
 
 var walkingsfx = new Howl({
